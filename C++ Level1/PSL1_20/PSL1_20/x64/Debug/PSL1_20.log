@@ -1,0 +1,4 @@
+﻿  PSL1_20.cpp
+C:\Users\OMAR-PC\source\repos\PSL1_20\PSL1_20\PSL1_20.cpp(17,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\PSL1_20\PSL1_20\PSL1_20.cpp(18,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PSL1_20.vcxproj -> C:\Users\OMAR-PC\source\repos\PSL1_20\x64\Debug\PSL1_20.exe

@@ -1,0 +1,5 @@
+﻿  PSL1_43.cpp
+C:\Users\OMAR-PC\source\repos\PSL1_43\PSL1_43\PSL1_43.cpp(29,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\OMAR-PC\source\repos\PSL1_43\PSL1_43\PSL1_43.cpp(31,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\OMAR-PC\source\repos\PSL1_43\PSL1_43\PSL1_43.cpp(33,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PSL1_43.vcxproj -> C:\Users\OMAR-PC\source\repos\PSL1_43\x64\Debug\PSL1_43.exe

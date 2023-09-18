@@ -1,0 +1,3 @@
+﻿  H18.cpp
+C:\Users\OMAR-PC\source\repos\H18\H18\H18.cpp(24,12): warning C4101: 'WeekDay': unreferenced local variable
+  H18.vcxproj -> C:\Users\OMAR-PC\source\repos\H18\x64\Debug\H18.exe

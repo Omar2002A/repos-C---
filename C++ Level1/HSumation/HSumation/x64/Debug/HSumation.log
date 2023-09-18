@@ -1,0 +1,3 @@
+﻿  HSumation.cpp
+C:\Users\OMAR-PC\source\repos\HSumation\HSumation\HSumation.cpp(65): warning C4715: 'SumNumbers': not all control paths return a value
+  HSumation.vcxproj -> C:\Users\OMAR-PC\source\repos\HSumation\x64\Debug\HSumation.exe

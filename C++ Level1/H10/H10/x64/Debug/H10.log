@@ -1,0 +1,4 @@
+﻿  H10.cpp
+C:\Users\OMAR-PC\source\repos\H10\H10\H10.cpp(24,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\H10\H10\H10.cpp(29,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  H10.vcxproj -> C:\Users\OMAR-PC\source\repos\H10\x64\Debug\H10.exe

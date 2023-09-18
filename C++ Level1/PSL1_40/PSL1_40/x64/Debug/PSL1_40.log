@@ -1,0 +1,4 @@
+﻿  PSL1_40.cpp
+C:\Users\OMAR-PC\source\repos\PSL1_40\PSL1_40\PSL1_40.cpp(18,18): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\PSL1_40\PSL1_40\PSL1_40.cpp(19,19): warning C4305: '*=': truncation from 'double' to 'float'
+  PSL1_40.vcxproj -> C:\Users\OMAR-PC\source\repos\PSL1_40\x64\Debug\PSL1_40.exe

@@ -1,0 +1,7 @@
+﻿  PSL1_34.cpp
+C:\Users\OMAR-PC\source\repos\PSL1_34\PSL1_34\PSL1_34.cpp(15,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\PSL1_34\PSL1_34\PSL1_34.cpp(17,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\PSL1_34\PSL1_34\PSL1_34.cpp(19,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\PSL1_34\PSL1_34\PSL1_34.cpp(21,10): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\OMAR-PC\source\repos\PSL1_34\PSL1_34\PSL1_34.cpp(38,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PSL1_34.vcxproj -> C:\Users\OMAR-PC\source\repos\PSL1_34\x64\Debug\PSL1_34.exe
