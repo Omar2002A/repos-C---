@@ -1,0 +1,3 @@
+﻿  PSL2_49.cpp
+C:\Users\OMAR-PC\source\repos\PSL2_49\PSL2_49\PSL2_49.cpp(24,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  PSL2_49.vcxproj -> C:\Users\OMAR-PC\source\repos\PSL2_49\x64\Debug\PSL2_49.exe

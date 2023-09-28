@@ -1,0 +1,3 @@
+﻿  PSL2_47.cpp
+C:\Users\OMAR-PC\source\repos\PSL2_47\PSL2_47\PSL2_47.cpp(37,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PSL2_47.vcxproj -> C:\Users\OMAR-PC\source\repos\PSL2_47\x64\Debug\PSL2_47.exe
