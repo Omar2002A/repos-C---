@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_29(Count Small & Capital Letters)\PSL3_29(Count Small & Capital Letters)\Source.cpp(20,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  PSL3_29(Count Small & Capital Letters).vcxproj -> F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_29(Count Small & Capital Letters)\x64\Debug\PSL3_29(Count Small & Capital Letters).exe

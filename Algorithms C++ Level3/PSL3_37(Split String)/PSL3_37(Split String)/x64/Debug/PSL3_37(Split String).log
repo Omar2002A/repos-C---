@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_37(Split String)\PSL3_37(Split String)\Source.cpp(21,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  PSL3_37(Split String).vcxproj -> F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_37(Split String)\x64\Debug\PSL3_37(Split String).exe

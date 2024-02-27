@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_42(Replace Words)\PSL3_42(Replace Words)\Source.cpp(8,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_42(Replace Words)\PSL3_42(Replace Words)\Source.cpp(13,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  PSL3_42(Replace Words).vcxproj -> F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_42(Replace Words)\x64\Debug\PSL3_42(Replace Words).exe

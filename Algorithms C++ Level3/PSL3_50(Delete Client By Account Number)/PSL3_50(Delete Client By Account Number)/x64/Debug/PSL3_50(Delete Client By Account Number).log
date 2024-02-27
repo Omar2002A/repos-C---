@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_50(Delete Client By Account Number)\PSL3_50(Delete Client By Account Number)\Source.cpp(24,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_50(Delete Client By Account Number)\PSL3_50(Delete Client By Account Number)\Source.cpp(165): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  PSL3_50(Delete Client By Account Number).vcxproj -> F:\Programming\repos-C---\Algorithms C++ Level3\PSL3_50(Delete Client By Account Number)\x64\Debug\PSL3_50(Delete Client By Account Number).exe
