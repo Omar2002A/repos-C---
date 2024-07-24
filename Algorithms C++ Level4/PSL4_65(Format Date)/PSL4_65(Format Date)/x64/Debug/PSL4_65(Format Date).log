@@ -1,0 +1,5 @@
+﻿  PSL4_65(Format Date).cpp
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\Algorithms C++ Level4\PSL4_65(Format Date)\PSL4_65(Format Date)\PSL4_65(Format Date).cpp(21,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\Algorithms C++ Level4\PSL4_65(Format Date)\PSL4_65(Format Date)\PSL4_65(Format Date).cpp(38,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\Algorithms C++ Level4\PSL4_65(Format Date)\PSL4_65(Format Date)\PSL4_65(Format Date).cpp(43,15): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  PSL4_65(Format Date).vcxproj -> C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\Algorithms C++ Level4\PSL4_65(Format Date)\x64\Debug\PSL4_65(Format Date).exe

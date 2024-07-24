@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PSL4_20to32(Increase Date Problems)", "PSL4_20to32(Increase Date Problems)\PSL4_20to32(Increase Date Problems).vcxproj", "{15F18D80-2D26-4630-ABE1-82D069603509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Debug|x64.ActiveCfg = Debug|x64
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Debug|x64.Build.0 = Debug|x64
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Debug|x86.ActiveCfg = Debug|Win32
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Debug|x86.Build.0 = Debug|Win32
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Release|x64.ActiveCfg = Release|x64
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Release|x64.Build.0 = Release|x64
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Release|x86.ActiveCfg = Release|Win32
+		{15F18D80-2D26-4630-ABE1-82D069603509}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B67EF2-907B-40BA-BC20-30C66EAD0F9A}
+	EndGlobalSection
+EndGlobal
