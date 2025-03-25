@@ -1,0 +1,20 @@
+﻿  Period Class.cpp
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(37,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Period%20Class.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(42,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Period%20Class.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(52,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Period%20Class.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(163,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Period%20Class.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(271,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Period%20Class.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(318,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Period%20Class.cpp')
+  
+  Period Class.vcxproj -> C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\Period Class\x64\Debug\Period Class.exe

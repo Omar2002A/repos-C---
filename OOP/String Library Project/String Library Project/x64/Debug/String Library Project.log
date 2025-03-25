@@ -1,0 +1,20 @@
+﻿  String Library Project.cpp
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(37,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(42,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(52,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(163,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(271,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\String Library Project\clsString.h(318,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+  String Library Project.vcxproj -> C:\Users\LENOVO\OneDrive\المستندات\GitHub\repos-C---\OOP\String Library Project\x64\Debug\String Library Project.exe
